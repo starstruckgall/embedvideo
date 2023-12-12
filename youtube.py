@@ -1,4 +1,4 @@
-
+'''Python program to watch YouTube videos whithout opening YouTube by embedding it into a blank HTML file.'''
 import webbrowser
 video = input("Please paste the link of the youtube video you wish to embed: ")
 
